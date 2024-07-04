@@ -1,2 +1,2 @@
 Personal Portfolio Website
-zubairwani.netify.app
+https://zubairwani.netify.app
