@@ -1,0 +1,16 @@
+/* Change colors in this file to style to your needs on a global level. 
+Certain colors are used for different and multiply types of elements. 
+For greater control over colors visit each components .scss file. */
+.footer-text {
+  text-align: center;
+  color: #868e96 !important;
+}
+
+.dark-mode {
+  color: #ffffff !important;
+}
+
+.footer-div {
+  margin-top: 2rem;
+  padding-bottom: 1rem;
+}/*# sourceMappingURL=Footer.css.map */
