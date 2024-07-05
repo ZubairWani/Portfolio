@@ -130,19 +130,19 @@ const educationInfo = {
       logo: require("./assets/images/UniversityLogo.jpeg"),
       subHeader: "Master of Computer Applications",
       duration: "September 2022 - April 2024",
-      desc: "Participated in the research of XXX and published 3 papers.",
-      descBullets: [
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
-      ]
+      desc: "Skills: Data Structures using C++ · Computer Networks · Programming with C++ · Artificial Intelligence (AI) · Computer Graphics · Machine Learning · Assembly Language Programming · Python · JavaScript · Design and Analysis of Algorithms ",
+      // descBullets: [
+      //   "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      //   "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
+      // ]
     },
     {
       schoolName: "University of Kashmir",
       logo: require("./assets/images/UniversityLogo.jpeg"),
       subHeader: "Bachelor of Computer Applications",
       duration: "September 2018 - April 2022",
-      desc: "Ranked top 10% in the program. Took courses about Software Engineering, Web Security, Operating Systems, ...",
-      descBullets: ["Lorem ipsum dolor sit amet, consectetur adipiscing elit"]
+      desc: "Skills: Computer Networks · Data Structures · C++ · Artificial Neural Networks · Front-End Development · Java",
+      // descBullets: ["Lorem ipsum dolor sit amet, consectetur adipiscing elit"]
     }
   ]
 };
@@ -175,7 +175,7 @@ const workExperiences = {
   experience: [
     {
       role: "Full-Stack Developer Intern",
-      company: "YourSportz",
+      company: "Navrekh Technologies Pvt Ltd",
       companylogo: require("./assets/images/YoursportzLogo.jpg"),
       date: "May 2024 – Present",
       desc: "YourSportz is a comprehensive sports platform tailored for football enthusiasts. Whether you're a player, coach, or fan, this app caters to your needs.",
