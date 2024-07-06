@@ -127,7 +127,7 @@ const educationInfo = {
   schools: [
     {
       schoolName: "University of Kashmir",
-      logo: require("./assets/images/UniversityLogo.jpeg"),
+      logo: require("./assets/images/universitylogo.jpg"),
       subHeader: "Master of Computer Applications",
       duration: "September 2022 - April 2024",
       desc: "Skills: Data Structures using C++ · Computer Networks · Programming with C++ · Artificial Intelligence (AI) · Computer Graphics · Machine Learning · Assembly Language Programming · Python · JavaScript · Design and Analysis of Algorithms ",
@@ -138,7 +138,7 @@ const educationInfo = {
     },
     {
       schoolName: "University of Kashmir",
-      logo: require("./assets/images/UniversityLogo.jpeg"),
+      logo: require("./assets/images/universitylogo.jpg"),
       subHeader: "Bachelor of Computer Applications",
       duration: "September 2018 - April 2022",
       desc: "Skills: Computer Networks · Data Structures · C++ · Artificial Neural Networks · Front-End Development · Java",
