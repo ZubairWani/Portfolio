@@ -237,6 +237,17 @@ const bigProjects = {
           url: "http://chatverse.world"
         }
       ]
+    },
+    {
+      image: require("./assets/images/NavrekhTechLogo.jpg"),
+      projectName: "Navrekh Tech",
+      projectDesc: "Empowering communities with innovative platforms for sports, communication, and social media.",
+      footerLink: [
+        {
+          name: "Visit Website",
+          url: "http://navrekhtech.com"
+        }
+      ]
     }
   ],
   display: true // Set false to hide this section, defaults to true
