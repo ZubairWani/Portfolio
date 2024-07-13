@@ -96,6 +96,8 @@
 }
 @media (max-width: 768px) {
   .button-greeting-div {
+    flex-direction: column;
+    align-items: center;
     justify-content: space-around;
   }
   .greeting-text {
