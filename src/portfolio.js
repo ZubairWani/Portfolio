@@ -335,7 +335,7 @@ const blogSection = {
         "YourSportz is a comprehensive sports platform tailored for football enthusiasts. Whether you're a player, coach, or fan, this app caters to your needs."
     }
   ],
-  display: true // Set false to hide this section, defaults to true
+  display: false // Set false to hide this section, defaults to true
 };
 
 // Talks Sections
@@ -391,7 +391,7 @@ const contactInfo = {
 
 const twitterDetails = {
   userName: "_zubairwani_", //Replace "twitter" with your twitter username without @
-  display: true // Set true to display this section, defaults to false
+  display: false // Set true to display this section, defaults to false
 };
 
 const isHireable = true; // Set false if you are not looking for a job. Also isHireable will be display as Open for opportunities: Yes/No in the GitHub footer
