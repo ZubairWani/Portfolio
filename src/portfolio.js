@@ -239,7 +239,7 @@ const bigProjects = {
       ]
     },
     {
-      image: require("./assets/images/NavrekhTechLogo.jpg"),
+      image: require("./assets/images/NavrekhLogo.jpg"),
       projectName: "Navrekh Tech",
       projectDesc: "Empowering communities with innovative platforms for sports, communication, and social media.",
       footerLink: [
