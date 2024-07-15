@@ -176,7 +176,7 @@ const workExperiences = {
     {
       role: "Full-Stack Developer Intern",
       company: "Navrekh Technologies Pvt Ltd",
-      companylogo: require("./assets/images/YoursportzLogo.jpg"),
+      companylogo: require("./assets/images/NavrekhLogo.jpg"),
       date: "May 2024 – Present",
       desc: "YourSportz is a comprehensive sports platform tailored for football enthusiasts. Whether you're a player, coach, or fan, this app caters to your needs.",
       // descBullets: [
