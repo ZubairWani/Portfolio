@@ -174,10 +174,21 @@ const workExperiences = {
   display: true, //Set it to true to show workExperiences Section
   experience: [
     {
+      role: "Full-Stack Developer",
+      company: "DevMatrix IT Solutions",
+      companylogo: require("./assets/images/DevMatrixOrg.png"),
+      date: "Nov 2024 - Present",
+      desc: "DevMatrix IT Solutions is a forward-thinking technology company committed to delivering innovative and efficient IT solutions.",
+      // descBullets: [
+      //   "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      //   "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
+      // ]
+    },
+    {
       role: "Full-Stack Developer Intern",
       company: "Navrekh Technologies Pvt Ltd",
       companylogo: require("./assets/images/NavrekhLogo.jpg"),
-      date: "May 2024 – Present",
+      date: "May 2024 – Oct 2024",
       desc: "YourSportz is a comprehensive sports platform tailored for football enthusiasts. Whether you're a player, coach, or fan, this app caters to your needs.",
       // descBullets: [
       //   "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
@@ -215,6 +226,18 @@ const bigProjects = {
   title: "Big Projects",
   subtitle: "SOME STARTUPS AND COMPANIES THAT I HELPED TO CREATE THEIR TECH",
   projects: [
+    {
+      image: require("./assets/images/DevMatrixOrg.png"),
+      projectName: "DevMatrix IT Solutions",
+      projectDesc: "DevMatrix IT Solutions is a forward-thinking technology company committed to delivering innovative and efficient IT solutions.",
+      footerLink: [
+        {
+          name: "Visit Website",
+          url: "http://devmatrix.org/"
+        }
+        //  you can add extra buttons here.
+      ]
+    },
     {
       image: require("./assets/images/YoursportzLogoWhite.jpg"),
       projectName: "YourSportz",
@@ -303,7 +326,7 @@ const achievementSection = {
       image: require("./assets/images/google.png"),
       imageAlt: "Google Logo",
       footerLink: [
-        {name: "Certification", url: "https://cursa.app/en/my-certificate/cert7611b694476059605aeba561fd86c0f8"},
+        {name: "Certification", url: "https://www.coursera.org/account/accomplishments/verify/WPOMARBI9KIF"},
         // {
         //   name: "Final Project",
         //   url: ""
