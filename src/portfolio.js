@@ -181,7 +181,6 @@ const workExperiences = {
       desc: "DevMatrix IT Solutions is a forward-thinking technology company committed to delivering innovative and efficient IT solutions.",
       // descBullets: [
       //   "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-      //   "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
       // ]
     },
     {
