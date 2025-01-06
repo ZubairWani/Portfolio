@@ -129,7 +129,7 @@ const educationInfo = {
       schoolName: "University of Kashmir",
       logo: require("./assets/images/universitylogo.jpg"),
       subHeader: "Master of Computer Applications",
-      duration: "September 2022 - April 2024",
+      duration: "September 2022 - October 2024",
       desc: "Skills: Data Structures using C++ · Computer Networks · Programming with C++ · Artificial Intelligence (AI) · Computer Graphics · Machine Learning · Assembly Language Programming · Python · JavaScript · Design and Analysis of Algorithms ",
       // descBullets: [
       //   "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
