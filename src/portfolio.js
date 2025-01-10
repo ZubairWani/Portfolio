@@ -176,7 +176,7 @@ const workExperiences = {
     {
       role: "Full-Stack Developer",
       company: "DevMatrix IT Solutions",
-      companylogo: require("./assets/images/DevMatrixOrg.png"),
+      companylogo: require("./assets/images/FavDark.png"),
       date: "Nov 2024 - Present",
       desc: "DevMatrix IT Solutions is a forward-thinking technology company committed to delivering innovative and efficient IT solutions.",
       // descBullets: [
@@ -226,7 +226,7 @@ const bigProjects = {
   subtitle: "SOME STARTUPS AND COMPANIES THAT I HELPED TO CREATE THEIR TECH",
   projects: [
     {
-      image: require("./assets/images/DevMatrixOrg.png"),
+      image: require("./assets/images/FavDark.png"),
       projectName: "DevMatrix IT Solutions",
       projectDesc: "DevMatrix IT Solutions is a forward-thinking technology company committed to delivering innovative and efficient IT solutions.",
       footerLink: [
