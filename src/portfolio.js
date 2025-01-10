@@ -52,13 +52,16 @@ const skillsSection = {
   subTitle: "CRAZY FULL STACK DEVELOPER WHO WANTS TO EXPLORE EVERY TECH STACK",
   skills: [
     emoji(
-      "⚡ Develop highly interactive Front end / User Interfaces for your web and mobile applications"
+      "⚡ Develop highly interactive Front end & Backend for your web and mobile applications"
     ),
-    emoji("⚡ Progressive Web Applications ( PWA ) in normal and SPA Stacks"),
     emoji(
-      "⚡ Integration of third party services such as Firebase/ AWS / Digital Ocean"
+      "⚡ Skilled in creating robust web apps using JavaScript, React, and other modern technologies"
+    ),
+    emoji(
+      "⚡ Integration of third-party services such as Firebase, AWS, and Azure"
     )
   ],
+
 
   /* Make Sure to include correct Font Awesome Classname to view your icon
 https://fontawesome.com/icons?d=gallery */
@@ -88,16 +91,16 @@ https://fontawesome.com/icons?d=gallery */
       skillName: "nodejs",
       fontAwesomeClassname: "fab fa-node"
     },
-    {
-      skillName: "swift",
-      fontAwesomeClassname: "fab fa-swift"
-    },
+    // {
+    //   skillName: "swift",
+    //   fontAwesomeClassname: "fab fa-swift"
+    // },
     {
       skillName: "npm",
       fontAwesomeClassname: "fab fa-npm"
     },
     {
-      skillName: "sql-database",
+      skillName: "MongoDb",
       fontAwesomeClassname: "fas fa-database"
     },
     {
@@ -112,10 +115,10 @@ https://fontawesome.com/icons?d=gallery */
       skillName: "python",
       fontAwesomeClassname: "fab fa-python"
     },
-    // {
-    //   skillName: "docker",
-    //   fontAwesomeClassname: "fab fa-docker"
-    // }
+    {
+      skillName: "docker",
+      fontAwesomeClassname: "fab fa-docker"
+    }
   ],
   display: true // Set false to hide this section, defaults to true
 };
@@ -325,7 +328,7 @@ const achievementSection = {
       image: require("./assets/images/google.png"),
       imageAlt: "Google Logo",
       footerLink: [
-        {name: "Certification", url: "https://www.coursera.org/account/accomplishments/verify/WPOMARBI9KIF"},
+        { name: "Certification", url: "https://www.coursera.org/account/accomplishments/verify/WPOMARBI9KIF" },
         // {
         //   name: "Final Project",
         //   url: ""
