@@ -253,6 +253,18 @@ const bigProjects = {
       ]
     },
     {
+      image: require("./assets/images/HomeBasicsLogo.png"),
+      projectName: "Home Basics",
+      projectDesc: "Home Basics: Delivering excellence in water purification and expert water heater installation and repair services you can trust.",
+      footerLink: [
+        {
+          name: "Visit Website",
+          url: "https://homebasics.onrender.com/"
+        }
+        //  you can add extra buttons here.
+      ]
+    },
+    {
       image: require("./assets/images/ChatVerse.jpg"),
       projectName: "ChatVerse",
       projectDesc: "REAL TIME MESSAGING,VIDEO CALLING , CREATIVE VIDEO SHARING",
@@ -334,7 +346,21 @@ const achievementSection = {
         //   url: ""
         // }
       ]
-    }
+    },
+
+    {
+      title: "Configuration Management and the Cloud",
+      subtitle: "Configuration Management, Automation at Scale, Cloud Computing, Basic Monitoring & Alerting, Using Puppet",
+      image: require("./assets/images/googleCloud.png"),
+      imageAlt: "Google Logo",
+      footerLink: [
+        { name: "Certification", url: "https://www.coursera.org/account/accomplishments/verify/I7HXBKJMHLUU" },
+        // {
+        //   name: "Final Project",
+        //   url: ""
+        // }
+      ]
+    },
   ],
   display: true // Set false to hide this section, defaults to true
 };
