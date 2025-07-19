@@ -265,17 +265,6 @@ const bigProjects = {
       ]
     },
     {
-      image: require("./assets/images/ChatVerse.jpg"),
-      projectName: "ChatVerse",
-      projectDesc: "REAL TIME MESSAGING,VIDEO CALLING , CREATIVE VIDEO SHARING",
-      footerLink: [
-        {
-          name: "Visit Website",
-          url: "http://chatverse.world"
-        }
-      ]
-    },
-    {
       image: require("./assets/images/NavrekhLogo.jpg"),
       projectName: "Navrekh Tech",
       projectDesc: "Empowering communities with innovative platforms for sports, communication, and social media.",
@@ -285,7 +274,18 @@ const bigProjects = {
           url: "http://navrekhtech.com"
         }
       ]
-    }
+    },
+     {
+      image: require("./assets/images/tabeeb.jpg"),
+      projectName: "Tabeeb Medical Solutions",
+      projectDesc: "Connect with healthcare professionals online, book lab tests, and access quality medical services from the comfort of your home.",
+      footerLink: [
+        {
+          name: "Visit Website",
+          url: "https://tabeeb.co.in/"
+        }
+      ]
+    },
   ],
   display: true // Set false to hide this section, defaults to true
 };
