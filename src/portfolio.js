@@ -132,7 +132,7 @@ const educationInfo = {
       schoolName: "University of Kashmir",
       logo: require("./assets/images/universitylogo.jpg"),
       subHeader: "Master of Computer Applications",
-      duration: "September 2022 - October 2024",
+      duration: "August 2022 - February 2025",
       desc: "Skills: Data Structures using C++ · Computer Networks · Programming with C++ · Artificial Intelligence (AI) · Computer Graphics · Machine Learning · Assembly Language Programming · Python · JavaScript · Design and Analysis of Algorithms ",
       // descBullets: [
       //   "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
@@ -180,14 +180,14 @@ const workExperiences = {
       role: "Full-Stack Developer",
       company: "DevMatrix IT Solutions",
       companylogo: require("./assets/images/FavDark.png"),
-      date: "Nov 2024 - Present",
+      date: "jan 2025 - june 2025",
       desc: "DevMatrix IT Solutions is a forward-thinking technology company committed to delivering innovative and efficient IT solutions.",
       // descBullets: [
       //   "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
       // ]
     },
     {
-      role: "Full-Stack Developer Intern",
+      role: "Frontend Developer React",
       company: "Navrekh Technologies Pvt Ltd",
       companylogo: require("./assets/images/NavrekhLogo.jpg"),
       date: "May 2024 – Oct 2024",
