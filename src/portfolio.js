@@ -300,6 +300,19 @@ const achievementSection = {
 
   achievementsCards: [
     {
+      title: "Google IT Automation with Python – Coursera | Google",
+      subtitle:
+        "Completed all 6 professional certifications covering Python, Git, automation, and troubleshooting.",
+      image: require("./assets/images/google.png"),
+      imageAlt: "Google Code-In Logo",
+      footerLink: [
+        {
+          name: "Certification",
+          url: "https://coursera.org/share/64fec3b6e06c3b6204780265f4ee8fe0"
+        },
+      ]
+    },
+    {
       title: "Crash Course On Python",
       subtitle:
         "Python Programming, Basic Python Syntax, Basic Python Data Structures, Object-Oriented Programming (OOP), Fundamental Programming Concepts",
@@ -310,14 +323,6 @@ const achievementSection = {
           name: "Certification",
           url: "https://www.coursera.org/account/accomplishments/verify/Q4CZAGKCVWKJ"
         },
-        // {
-        //   name: "Award Letter",
-        //   url: "https://drive.google.com/file/d/0B7kazrtMwm5dekxBTW5hQkg2WXUyR3QzQmR0VERiLXlGRVdF/view?usp=sharing"
-        // },
-        // {
-        //   name: "Google Code-in Blog",
-        //   url: "https://opensource.googleblog.com/2019/01/google-code-in-2018-winners.html"
-        // }
       ]
     },
     {
